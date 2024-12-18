@@ -1,0 +1,15 @@
+h1 {
+    background: greenyellow;
+    text-align: center;
+}
+
+p {
+    text-decoration: underline;
+    text-transform: capitalize;
+    background-color: aqua;
+    margin-right: 800px;
+}
+
+marquee {
+    color: blue;
+}

@@ -1,0 +1,27 @@
+/* universal selector */
+*{
+    background-color: black;
+}
+.heading1{
+    background-color: skyblue;
+}
+.heading2{
+    background-color: firebrick;
+}
+.heading3{
+    background-color: green;
+}
+.heading4{
+    color: blue;
+}
+.heading5{
+    color: aqua;
+}
+
+u{
+    color: red;
+}
+
+#shayanId{
+    background-color: brown;
+}
